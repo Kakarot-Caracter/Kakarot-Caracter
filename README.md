@@ -4,50 +4,49 @@
 ---
 
 ## 🚀 Sobre mí
-Soy un **Full Stack Developer** con **2 años de experiencia** en desarrollo web y backend. Me encanta trabajar con tecnologías modernas, construir aplicaciones limpias y eficientes, y siempre aprender nuevas herramientas para mejorar mi stack tecnológico.
+Soy un **Full Stack Developer** con **2 años de experiencia** en desarrollo web y backend. Me apasiona construir aplicaciones limpias y eficientes usando tecnologías modernas, y siempre busco aprender nuevas herramientas para mejorar mi stack tecnológico.
 
 ---
 
 ## 💻 Habilidades
+
 ### Frontend
 - ⚛️ React, Next.js  
 - 🟨 JavaScript / TypeScript  
-- 🎨 CSS, TailwindCSS, Styled-Components  
+- 🎨 CSS, TailwindCSS
 
 ### Backend
 - 🏗️ NestJS, Node.js  
 - 🐍 Python  
-- 🌐 REST APIs / GraphQL  
+- 🌐 REST APIs  
 
 ### Bases de Datos
 - 🗄️ PostgreSQL, MySQL, MongoDB  
 
-### DevOps / Herramientas
+### Herramientas
 - 🐧 Linux  
 - 🐳 Docker  
-- 🔀 Git, CI/CD  
+- 🔀 Git 
 
-### Otras
-- 🧪 Testing / TDD  
-- 📐 Buenas prácticas y arquitectura escalable  
+### Buenas Prácticas
+- 📐 Arquitectura escalable y código limpio  
 
 ---
 
 ## 🌱 Actualmente aprendiendo
-- 🦀 Rust y Microservicios  
-- ⚙️ Automatización de despliegues y optimización DevOps  
+- ⚙️ Rust y Microservicios  
 
 ---
 
 ## 📫 Contacto
-- ✉️ Email: [tu-email@example.com](mailto:tu-email@example.com)  
+- ✉️ Email: [giovannimartinezz122@gmail.com](mailto:giovannimartinezz122@gmail.com)  
 - 🔗 GitHub: [https://github.com/Kakarot-Caracter](https://github.com/Kakarot-Caracter)  
-- 💼 LinkedIn: [Tu perfil LinkedIn]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/giovanni-martinez-927552201/](https://www.linkedin.com/in/giovanni-martinez-927552201/)  
 
 ---
 
 ## ⚡ Fun Fact
-Me encanta experimentar con nuevas tecnologías, optimizar proyectos y escribir código limpio que otros puedan disfrutar y mantener 💻✨
+Me encanta experimentar con nuevas tecnologías, optimizar proyectos y escribir código que otros puedan disfrutar y mantener 💻✨
 
 ---
 
