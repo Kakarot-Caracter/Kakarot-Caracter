@@ -57,5 +57,3 @@ Me encanta **experimentar con nuevas tecnologías**, optimizar proyectos y escri
 
 ---
 
-## 📊 GitHub Stats
-![Giovanni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kakarot-Caracter&show_icons=true&theme=tokyonight&count_private=true)
