@@ -39,7 +39,7 @@ Me apasiona construir **aplicaciones limpias y eficientes** usando tecnologías 
 ---
 
 ## 🌱 Actualmente aprendiendo
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-rust&logoColor=white)
 
 
 ⚙️ Microservicios y arquitectura distribuida
